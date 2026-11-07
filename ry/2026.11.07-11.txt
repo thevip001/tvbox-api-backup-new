@@ -1,0 +1,799 @@
+[11:07:51 780][Global][Inf]--User click open button
+[11:08:48 976][Global][Inf]--Image path F:\刷机\电视盒子\天猫魔盒2\AmlogicUSBBurningTool_v2.1.6.8带证书.7z等6个文件\secure-ddr-ubootcomp.img
+[11:08:48 976][Global][Inf]--OpenImg F:\刷机\电视盒子\天猫魔盒2\AmlogicUSBBurningTool_v2.1.6.8带证书.7z等6个文件\secure-ddr-ubootcomp.img
+[11:08:55 034]Parse platform.conf 
+[11:08:55 034][Global][Inf]--Parsing burning package
+[11:08:55 034][Global][Inf]--Load configuration file E:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp
+[11:08:55 034][Global][Inf]--Parse burning configuration file E:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp\burn_config.xml
+[11:08:55 046][Global][Inf]--Get burning key
+[11:09:00 647][Global][Inf]--User click start button
+[11:09:00 647][Global][Inf]--SetErase
+[11:09:00 647][Global][Inf]--Enable burning 1
+[11:09:00 647][Global][Inf]--Scan usb device
+[11:09:00 647][Global][Inf]--Aml scan WorldCup Device
+[11:09:00 675][Global][Inf]--Burning thread HUB3-2 start
+[11:09:00 675][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:09:00 675][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:09:00 675][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:09:00 675][Global][Inf]-------->[Port0]Other device
+[11:09:00 675][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port5]Other device
+[11:09:00 675][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:09:00 675][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:09:00 691][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:09:00 691][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:09:00 691][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:09:00 691][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:09:00 691][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:09:00 691][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:09:00 691][Global][Inf]---------->[Port2]Other device
+[11:09:00 691][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:09:00 691][Global][Inf]---------->[Port4]Other device
+[11:09:00 691][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:09:00 691][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:09:00 691][Global][Inf]---------->[Port7]Other device
+[11:09:00 691][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:09:00 691][Global][Inf]--Scan USB host controller complete
+[11:09:00 691][Global][Inf]--Update data center with HubMap
+[11:09:00 691][Global][Inf]--Update hub3 device data
+[11:09:00 691][Global][Inf]--Update HUB3-1 
+[11:09:00 691][HUB3-1][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:09:00 691][HUB3-2][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-3 
+[11:09:00 691][HUB3-3][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-4 
+[11:09:00 691][HUB3-4][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-5 
+[11:09:00 691][HUB3-5][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-6 
+[11:09:00 691][HUB3-6][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-7 
+[11:09:00 691][HUB3-7][Inf]--Update device path
+[11:09:00 691][Global][Inf]--Update HUB3-8 
+[11:09:00 691][HUB3-8][Inf]--Update device path
+[11:09:00 739][HUB3-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x00000370
+[11:09:00 803][HUB3-2][Inf]--New CloneImageProxy
+[11:09:00 803][Global][Inf]--OpenImg F:\刷机\电视盒子\天猫魔盒2\AmlogicUSBBurningTool_v2.1.6.8带证书.7z等6个文件\secure-ddr-ubootcomp.img
+[11:09:00 803][HUB3-2][Inf]--Connect path=Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6/P0/P0/P1
+[11:09:00 803][HUB3-2][Inf]--Start burning...
+[11:09:00 867][HUB3-2][Inf]--------------ERASE BOOTLOADER------------
+[11:09:00 867][HUB3-2][Inf]-------------Download DDR.USB-----------
+[11:09:00 867][HUB3-2][Inf]--0-7-0-16
+[11:09:00 867][HUB3-2][Inf]--No need download
+[11:09:00 867][HUB3-2][Inf]-------------Download UBOOT_COMP.USB-----------
+[11:09:00 867][HUB3-2][Inf]--0-7-0-16
+[11:09:00 867][HUB3-2][Inf]--No need download
+[11:09:00 867][HUB3-2][Inf]--    low_power
+[11:09:00 867][HUB3-2][Inf]--Send command success
+[11:09:00 867][HUB3-2][Inf]--Read command status success
+[11:09:00 867][HUB3-2][Inf]-------------ERASE FLASH-----------
+[11:09:00 867][HUB3-2][Inf]--disk_initial 1
+[11:09:00 867][HUB3-2][Inf]--Send command success
+[11:09:00 886][HUB3-2][Inf]--Read command status success
+[11:09:00 886][HUB3-2][Inf]-------------Download meson.dtb-----------
+[11:09:00 888][HUB3-2][Inf]--0-7-0-16
+[11:09:00 888][HUB3-2][Inf]--    download mem dtb normal 19380
+[11:09:00 888][HUB3-2][Inf]--Send download command success
+[11:09:00 903][HUB3-2][Inf]--Read command status success
+[11:09:00 903][HUB3-2][Inf]--Transfer complete
+[11:09:00 903][HUB3-2][Inf]--Send download get_status command succeed
+[11:09:00 915][HUB3-2][Inf]--get_status success
+[11:09:01 423][HUB3-2][Inf]-------------Download boot.PARTITION-----------
+[11:09:01 423][HUB3-2][Inf]--0-7-0-16
+[11:09:01 423][HUB3-2][Inf]--download store boot normal 8608848
+[11:09:01 425][HUB3-2][Inf]--Send download command success
+[11:09:01 442][HUB3-2][Err]--failed:
+[11:09:01 507][HUB3-2][Err]--[0x30402004]UBOOT/烧录分区 boot/初始化分区/命令结果返回错误
+[11:09:01 507][HUB3-2][Inf]--Close device handle 0x00000370
+[11:11:07 215][Global][War]--User click stop button
+[11:11:07 741][Global][Inf]--Enable burning 0
+[11:11:09 779][Global][War]--Close tool
+[11:11:10 368][Global][Inf]--Burning thread HUB3-2 end run
+[11:11:10 368][Global][Inf]--Burning thread HUB3-2 exit
+[11:11:10 955][Global][War]--Controler exit
+[11:46:44 814][Global][Inf]--Get system Info :
+[11:46:44 814][Global][Inf]--Windows Version: Microsoft Windows 10, Bit: 64
+[11:46:44 814][Global][Inf]--Scan usb device
+[11:46:44 814][Global][Inf]--Aml scan WorldCup Device
+[11:46:44 863][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:46:44 863][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:46:44 863][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:46:44 867][Global][Inf]-------->[Port0]Other device
+[11:46:44 867][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:46:44 867][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:46:44 867][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:46:44 867][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port5]Other device
+[11:46:44 869][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:46:44 869][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:46:44 871][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:46:44 871][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:46:44 871][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:46:44 871][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:46:44 871][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:46:44 872][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:46:44 875][Global][Inf]---------->[Port2]Other device
+[11:46:44 875][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:46:44 875][Global][Inf]---------->[Port4]Other device
+[11:46:44 875][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:46:44 875][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:46:44 877][Global][Inf]---------->[Port7]Other device
+[11:46:44 877][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:46:44 877][Global][Inf]--Scan USB host controller complete
+[11:46:44 877][Global][Inf]--Update data center with HubMap
+[11:46:44 877][Global][Inf]--Insert new hub3
+[11:46:44 877][Global][Inf]--Update hub3 device data
+[11:46:44 877][Global][Inf]--Update HUB3-1 
+[11:46:44 877][HUB3-1][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:46:44 877][HUB3-2][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Begin thread for HUB3-2
+[11:46:44 877][Global][Inf]--Burning thread HUB3-2 start
+[11:46:44 877][Global][Inf]--Update HUB3-3 
+[11:46:44 877][HUB3-3][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Update HUB3-4 
+[11:46:44 877][Global][Inf]--Burning thread HUB3-2 begin run
+[11:46:44 877][HUB3-4][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Update HUB3-5 
+[11:46:44 877][HUB3-5][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Update HUB3-6 
+[11:46:44 877][HUB3-6][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Update HUB3-7 
+[11:46:44 877][HUB3-7][Inf]--Update device path
+[11:46:44 877][Global][Inf]--Update HUB3-8 
+[11:46:44 877][HUB3-8][Inf]--Update device path
+[11:46:57 292][Global][Inf]--User click open button
+[11:47:08 831][Global][Inf]--Image path F:\刷机\电视盒子\天猫魔盒2\tmb300a.img
+[11:47:08 832][Global][Inf]--OpenImg F:\刷机\电视盒子\天猫魔盒2\tmb300a.img
+[11:47:13 867]Parse platform.conf 
+[11:47:13 868][Global][Inf]--Parsing burning package
+[11:47:13 868][Global][Inf]--Load configuration file E:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp
+[11:47:13 868][Global][Inf]--Parse burning configuration file E:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp\burn_config.xml
+[11:47:13 870][Global][Inf]--Get burning key
+[11:47:26 074][Global][Inf]--User click start button
+[11:47:26 075][Global][Inf]--SetErase
+[11:47:26 075][Global][Inf]--Enable burning 1
+[11:47:26 077][Global][Inf]--Scan usb device
+[11:47:26 077][Global][Inf]--Aml scan WorldCup Device
+[11:47:26 078][HUB3-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x000004b4
+[11:47:26 078][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:47:26 078][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:47:26 078][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:47:26 078][Global][Inf]-------->[Port0]Other device
+[11:47:26 078][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:47:26 078][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:47:26 078][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:47:26 078][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port5]Other device
+[11:47:26 081][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:47:26 081][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:47:26 082][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:47:26 082][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:47:26 082][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:47:26 082][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:47:26 082][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:47:26 083][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:47:26 083][Global][Inf]---------->[Port2]Other device
+[11:47:26 083][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:47:26 084][Global][Inf]---------->[Port4]Other device
+[11:47:26 084][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:47:26 084][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:47:26 084][Global][Inf]---------->[Port7]Other device
+[11:47:26 084][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:47:26 084][Global][Inf]--Scan USB host controller complete
+[11:47:26 084][Global][Inf]--Update data center with HubMap
+[11:47:26 084][Global][Inf]--Update hub3 device data
+[11:47:26 084][Global][Inf]--Update HUB3-1 
+[11:47:26 084][HUB3-1][Inf]--Update device path
+[11:47:26 084][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:47:26 143][HUB3-2][Inf]--CloneImageProxy
+[11:47:26 143][HUB3-2][Inf]--Update device path
+[11:47:26 143][Global][Inf]--OpenImg F:\刷机\电视盒子\天猫魔盒2\tmb300a.img
+[11:47:26 143][Global][Inf]--Update HUB3-3 
+[11:47:26 143][HUB3-3][Inf]--Update device path
+[11:47:26 143][Global][Inf]--Update HUB3-4 
+[11:47:26 143][HUB3-4][Inf]--Update device path
+[11:47:26 143][Global][Inf]--Update HUB3-5 
+[11:47:26 143][HUB3-5][Inf]--Update device path
+[11:47:26 143][Global][Inf]--Update HUB3-6 
+[11:47:26 143][HUB3-6][Inf]--Update device path
+[11:47:26 143][Global][Inf]--Update HUB3-7 
+[11:47:26 143][HUB3-7][Inf]--Update device path
+[11:47:26 143][Global][Inf]--Update HUB3-8 
+[11:47:26 143][HUB3-8][Inf]--Update device path
+[11:47:26 143][HUB3-2][Inf]--Connect path=Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6/P0/P0/P1
+[11:47:26 143][HUB3-2][Inf]--Start burning...
+[11:47:26 209][HUB3-2][Inf]--------------ERASE BOOTLOADER------------
+[11:47:26 209][HUB3-2][Inf]-------------Download DDR.USB-----------
+[11:47:26 209][HUB3-2][Inf]--Close device handle 0x000004b4
+[11:47:26 260][HUB3-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x000005b4
+[11:47:26 326][HUB3-2][Inf]--0-7-0-16
+[11:47:26 326][HUB3-2][Inf]--No need download
+[11:47:26 326][HUB3-2][Inf]-------------Download UBOOT_COMP.USB-----------
+[11:47:26 327][HUB3-2][Inf]--0-7-0-16
+[11:47:26 327][HUB3-2][Inf]--No need download
+[11:47:26 327][HUB3-2][Inf]--    low_power
+[11:47:26 332][HUB3-2][Inf]--Send command success
+[11:47:26 332][HUB3-2][Inf]--Read command status success
+[11:47:26 332][HUB3-2][Inf]-------------ERASE FLASH-----------
+[11:47:26 332][HUB3-2][Inf]--disk_initial 1
+[11:47:26 332][HUB3-2][Inf]--Send command success
+[11:47:26 343][HUB3-2][Inf]--Read command status success
+[11:47:26 344][HUB3-2][Inf]-------------Download meson.dtb-----------
+[11:47:26 345][HUB3-2][Inf]--0-7-0-16
+[11:47:26 345][HUB3-2][Inf]--    download mem dtb normal 19380
+[11:47:26 345][HUB3-2][Inf]--Send download command success
+[11:47:26 362][HUB3-2][Inf]--Read command status success
+[11:47:26 371][HUB3-2][Inf]--Transfer complete
+[11:47:26 371][HUB3-2][Inf]--Send download get_status command succeed
+[11:47:26 375][HUB3-2][Inf]--get_status success
+[11:47:26 877][HUB3-2][Inf]-------------Download boot.PARTITION-----------
+[11:47:26 878][HUB3-2][Inf]--0-7-0-16
+[11:47:26 878][HUB3-2][Inf]--download store boot normal 8608848
+[11:47:26 879][HUB3-2][Inf]--Send download command success
+[11:47:26 899][HUB3-2][Err]--failed:
+[11:47:27 034][HUB3-2][Err]--[0x30402004]UBOOT/烧录分区 boot/初始化分区/命令结果返回错误
+[11:47:27 034][HUB3-2][Inf]--Close device handle 0x000005b4
+[11:47:35 555][Global][War]--User click stop button
+[11:47:36 097][Global][Inf]--Enable burning 0
+[11:47:37 563][Global][War]--Close tool
+[11:47:38 090][Global][Inf]--Burning thread HUB3-2 end run
+[11:47:38 090][Global][Inf]--Burning thread HUB3-2 exit
+[11:47:38 656][Global][War]--Controler exit
+[11:47:52 824][Global][Inf]--Get system Info :
+[11:47:52 824][Global][Inf]--Windows Version: Microsoft Windows 10, Bit: 64
+[11:47:52 826][Global][Inf]--Scan usb device
+[11:47:52 826][Global][Inf]--Aml scan WorldCup Device
+[11:47:52 826][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:47:52 826][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:47:52 826][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:47:52 832][Global][Inf]-------->[Port0]Other device
+[11:47:52 832][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:47:52 832][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:47:52 832][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:47:52 832][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port5]Other device
+[11:47:52 834][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:47:52 834][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:47:52 834][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:47:52 834][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:47:52 834][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:47:52 834][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:47:52 834][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:47:52 834][Global][Inf]---------->[Port1]NoDeviceConnected
+[11:47:52 834][Global][Inf]---------->[Port2]Other device
+[11:47:52 834][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:47:52 834][Global][Inf]---------->[Port4]Other device
+[11:47:52 834][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:47:52 834][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:47:52 839][Global][Inf]---------->[Port7]Other device
+[11:47:52 839][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:47:52 839][Global][Inf]--Scan USB host controller complete
+[11:47:52 839][Global][Inf]--Update data center with HubMap
+[11:48:04 032][Global][Inf]--OpenImg F:\刷机\电视盒子\天猫魔盒2\tmb300a.img
+[11:48:06 556]Parse platform.conf 
+[11:48:06 562][Global][Inf]--Parsing burning package
+[11:48:06 562][Global][Inf]--Load configuration file E:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp
+[11:48:06 562][Global][Inf]--Parse burning configuration file E:\Program Files (x86)\Amlogic\USB_Burning_Tool\temp\burn_config.xml
+[11:48:06 565][Global][Inf]--Get burning key
+[11:48:16 793][Global][Inf]--User click start button
+[11:48:16 793][Global][Inf]--SetErase
+[11:48:16 793][Global][Inf]--Enable burning 1
+[11:48:16 793][Global][Inf]--Scan usb device
+[11:48:16 793][Global][Inf]--Aml scan WorldCup Device
+[11:48:16 797][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:48:16 797][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:48:16 797][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:48:16 797][Global][Inf]-------->[Port0]Other device
+[11:48:16 797][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:48:16 797][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:48:16 797][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:48:16 797][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port5]Other device
+[11:48:16 799][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:48:16 799][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:48:16 801][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:48:16 801][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:48:16 801][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:48:16 801][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:48:16 801][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:48:16 801][Global][Inf]---------->[Port1]NoDeviceConnected
+[11:48:16 801][Global][Inf]---------->[Port2]Other device
+[11:48:16 801][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:48:16 803][Global][Inf]---------->[Port4]Other device
+[11:48:16 803][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:48:16 803][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:48:16 803][Global][Inf]---------->[Port7]Other device
+[11:48:16 803][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:48:16 803][Global][Inf]--Scan USB host controller complete
+[11:48:16 803][Global][Inf]--Update data center with HubMap
+[11:49:13 090][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[11:49:13 090][Global][Inf]--Scan usb device
+[11:49:13 090][Global][Inf]--Aml scan WorldCup Device
+[11:49:13 093][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:49:13 093][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:49:13 093][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:49:13 094][Global][Inf]-------->[Port0]Other device
+[11:49:13 094][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:49:13 094][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:49:13 094][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:49:13 094][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:49:13 096][Global][Inf]-------->[Port5]Other device
+[11:49:13 096][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:49:13 096][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:49:13 096][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:49:13 096][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:49:13 096][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:49:13 097][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:49:13 097][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:49:13 097][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:49:13 097][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:49:13 097][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:49:13 099][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:49:13 099][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:49:13 099][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:49:13 099][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:49:13 099][Global][Inf]---------->[Port1]NoDeviceConnected
+[11:49:13 099][Global][Err]---------->[Port2]Unable to get driver key, 22
+[11:49:13 099][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:49:13 103][Global][Inf]---------->[Port4]Other device
+[11:49:13 103][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:49:13 103][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:49:13 105][Global][Inf]---------->[Port7]Other device
+[11:49:13 105][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:49:13 105][Global][Inf]--Scan USB host controller complete
+[11:49:13 105][Global][Inf]--Update data center with HubMap
+[11:49:13 174][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[11:49:13 176][Global][Inf]--Scan usb device
+[11:49:13 176][Global][Inf]--Aml scan WorldCup Device
+[11:49:13 179][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:49:13 179][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:49:13 179][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:49:13 181][Global][Inf]-------->[Port0]Other device
+[11:49:13 181][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port5]Other device
+[11:49:13 181][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:49:13 181][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:49:13 183][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:49:13 183][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:49:13 183][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:49:13 183][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:49:13 183][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:49:13 183][Global][Inf]---------->[Port1]NoDeviceConnected
+[11:49:13 185][Global][Inf]---------->[Port2]Other device
+[11:49:13 185][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:49:13 188][Global][Inf]---------->[Port4]Other device
+[11:49:13 188][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:49:13 188][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:49:13 189][Global][Inf]---------->[Port7]Other device
+[11:49:13 189][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:49:13 189][Global][Inf]--Scan USB host controller complete
+[11:49:13 189][Global][Inf]--Update data center with HubMap
+[11:51:18 539][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[11:51:18 539][Global][Inf]--Scan usb device
+[11:51:18 539][Global][Inf]--Aml scan WorldCup Device
+[11:51:18 542][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:51:18 542][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:51:18 542][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:18 544][Global][Inf]-------->[Port0]Other device
+[11:51:18 544][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:51:18 544][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:51:18 544][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:51:18 544][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port5]Other device
+[11:51:18 546][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:51:18 546][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:51:18 547][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:51:18 548][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:51:18 548][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:18 548][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:18 548][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:51:18 549][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:51:18 552][Global][Inf]---------->[Port2]Other device
+[11:51:18 552][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:51:18 553][Global][Inf]---------->[Port4]Other device
+[11:51:18 553][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:51:18 553][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:51:18 556][Global][Inf]---------->[Port7]Other device
+[11:51:18 556][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:51:18 556][Global][Inf]--Scan USB host controller complete
+[11:51:18 556][Global][Inf]--Update data center with HubMap
+[11:51:18 556][Global][Inf]--Insert new hub3
+[11:51:18 556][Global][Inf]--Update hub3 device data
+[11:51:18 556][Global][Inf]--Update HUB3-1 
+[11:51:18 556][HUB3-1][Inf]--Update device path
+[11:51:18 556][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:51:18 556][HUB3-2][Inf]--Update device path
+[11:51:18 558][Global][Inf]--Begin thread for HUB3-2
+[11:51:18 558][Global][Inf]--Burning thread HUB3-2 start
+[11:51:18 558][Global][Inf]--Update HUB3-3 
+[11:51:18 558][HUB3-3][Inf]--Update device path
+[11:51:18 558][Global][Inf]--Burning thread HUB3-2 begin run
+[11:51:18 558][Global][Inf]--Update HUB3-4 
+[11:51:18 558][HUB3-4][Inf]--Update device path
+[11:51:18 558][Global][Inf]--Update HUB3-5 
+[11:51:18 558][HUB3-5][Inf]--Update device path
+[11:51:18 558][Global][Inf]--Update HUB3-6 
+[11:51:18 558][HUB3-6][Inf]--Update device path
+[11:51:18 558][Global][Inf]--Update HUB3-7 
+[11:51:18 558][HUB3-7][Inf]--Update device path
+[11:51:18 558][HUB3-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x000003e0
+[11:51:18 558][Global][Inf]--Update HUB3-8 
+[11:51:18 558][HUB3-8][Inf]--Update device path
+[11:51:18 616][HUB3-2][Inf]--CloneImageProxy
+[11:51:18 616][Global][Inf]--OpenImg F:\刷机\电视盒子\天猫魔盒2\tmb300a.img
+[11:51:18 616][HUB3-2][Inf]--Connect path=Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6/P0/P0/P1
+[11:51:18 616][HUB3-2][Inf]--Start burning...
+[11:51:18 671][HUB3-2][Inf]--------------ERASE BOOTLOADER------------
+[11:51:18 671][HUB3-2][Inf]-------------Download DDR.USB-----------
+[11:51:18 671][HUB3-2][Inf]--1-0-0-0
+[11:51:18 671][HUB3-2][Inf]--Control write pll reg1 0xc110419c:0x000000b1
+[11:51:19 182][HUB3-2][Inf]--Control write pll reg2 0xc1104174:0x00005183
+[11:51:19 683][HUB3-2][Inf]--Download para
+[11:51:19 684][HUB3-2][Inf]--Write initial succeed
+[11:51:19 684][HUB3-2][Inf]--Upload encrypt at 0xd9018058
+[11:51:19 685][HUB3-2][Inf]--ulValue = 0x000011c0
+[11:51:19 685][HUB3-2][Inf]--File change to DDR_ENC.USB
+[11:51:19 685][HUB3-2][Inf]--Read encrypt value succeed
+[11:51:19 692][HUB3-2][Inf]--Transfer complete
+[11:51:19 692][HUB3-2][Inf]--Run at address 0xd9000000
+[11:51:19 693][HUB3-2][Inf]--RunInRam succeed
+[11:51:19 936][HUB3-2][Inf]--para.retVal = 0x00000000
+[11:51:19 936][HUB3-2][Inf]--pRunInfo->magic = 0x7856efab
+[11:51:19 936][HUB3-2][Inf]--CheckFileRunState succeed
+[11:51:19 936][HUB3-2][Inf]-------------Download UBOOT_COMP.USB-----------
+[11:51:19 937][HUB3-2][Inf]--1-0-0-0
+[11:51:19 937][HUB3-2][Inf]--Upload encrypt at 0xd9018058
+[11:51:19 938][HUB3-2][Inf]--ulValue = 0x000011c0
+[11:51:19 938][HUB3-2][Inf]--File change to UBOOT_ENC.USB
+[11:51:19 938][HUB3-2][Inf]--Download buffer at 0x0fff8000
+[11:51:20 045][HUB3-2][Inf]--Transfer complete
+[11:51:20 045][HUB3-2][Inf]--Run at address 0x0fff8000
+[11:51:21 501][Global][Inf]--Catch DBT_DEVICEREMOVECOMPLETE
+[11:51:21 504][Global][Inf]--Scan usb device
+[11:51:21 504][Global][Inf]--Aml scan WorldCup Device
+[11:51:21 508][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:51:21 508][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:51:21 508][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:21 508][Global][Inf]-------->[Port0]Other device
+[11:51:21 508][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port5]Other device
+[11:51:21 511][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:51:21 511][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:51:21 513][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:51:21 513][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:51:21 513][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:51:21 513][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:51:21 514][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:51:21 514][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:51:21 514][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:21 516][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:21 516][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:51:21 516][Global][Inf]---------->[Port1]NoDeviceConnected
+[11:51:21 519][Global][Inf]---------->[Port2]Other device
+[11:51:21 519][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:51:21 520][Global][Inf]---------->[Port4]Other device
+[11:51:21 520][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:51:21 520][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:51:21 522][Global][Inf]---------->[Port7]Other device
+[11:51:21 522][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:51:21 522][Global][Inf]--Scan USB host controller complete
+[11:51:21 522][Global][Inf]--Update data center with HubMap
+[11:51:21 522][Global][Inf]--Update hub3 device data
+[11:51:21 522][Global][Inf]--Update HUB3-1 
+[11:51:21 522][HUB3-1][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-2 
+[11:51:21 522][HUB3-2][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-3 
+[11:51:21 522][HUB3-3][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-4 
+[11:51:21 522][HUB3-4][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-5 
+[11:51:21 522][HUB3-5][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-6 
+[11:51:21 522][HUB3-6][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-7 
+[11:51:21 522][HUB3-7][Inf]--Update device path
+[11:51:21 522][Global][Inf]--Update HUB3-8 
+[11:51:21 522][HUB3-8][Inf]--Update device path
+[11:51:21 550][HUB3-2][Inf]--Device is removed
+[11:51:22 801][Global][Inf]--Catch DBT_DEVICEARRIVAL
+[11:51:22 801][Global][Inf]--Scan usb device
+[11:51:22 802][Global][Inf]--Aml scan WorldCup Device
+[11:51:22 804][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:51:22 804][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:51:22 804][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:22 805][Global][Inf]-------->[Port0]Other device
+[11:51:22 806][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:51:22 806][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:51:22 806][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:51:22 806][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port5]Other device
+[11:51:22 808][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:51:22 808][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:51:22 810][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:51:22 810][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:51:22 810][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:22 811][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:51:22 812][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:51:22 815][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:51:22 815][Global][Inf]---------->[Port2]Other device
+[11:51:22 815][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:51:22 818][Global][Inf]---------->[Port4]Other device
+[11:51:22 818][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:51:22 820][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:51:22 821][Global][Inf]---------->[Port7]Other device
+[11:51:22 821][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:51:22 821][Global][Inf]--Scan USB host controller complete
+[11:51:22 822][Global][Inf]--Update data center with HubMap
+[11:51:22 822][Global][Inf]--Update hub3 device data
+[11:51:22 822][Global][Inf]--Update HUB3-1 
+[11:51:22 822][HUB3-1][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:51:22 822][HUB3-2][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-3 
+[11:51:22 822][HUB3-3][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-4 
+[11:51:22 822][HUB3-4][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-5 
+[11:51:22 822][HUB3-5][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-6 
+[11:51:22 822][HUB3-6][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-7 
+[11:51:22 822][HUB3-7][Inf]--Update device path
+[11:51:22 822][Global][Inf]--Update HUB3-8 
+[11:51:22 822][HUB3-8][Inf]--Update device path
+[11:51:22 830][HUB3-2][Inf]--Device is connected
+[11:51:22 830][HUB3-2][Inf]--Close device handle 0x000003e0
+[11:51:22 881][HUB3-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x0000040c
+[11:51:27 947][HUB3-2][Inf]--0-7-0-16
+[11:51:27 947][HUB3-2][Inf]--CheckFileRunState succeed
+[11:51:27 947][HUB3-2][Inf]--    low_power
+[11:51:27 952][HUB3-2][Inf]--Send command success
+[11:51:27 954][HUB3-2][Inf]--Read command status success
+[11:51:27 954][HUB3-2][Inf]-------------ERASE FLASH-----------
+[11:51:27 954][HUB3-2][Inf]--disk_initial 1
+[11:51:27 954][HUB3-2][Inf]--Send command success
+[11:51:28 370][HUB3-2][Inf]--Read command status success
+[11:51:28 371][HUB3-2][Inf]-------------Download meson.dtb-----------
+[11:51:28 372][HUB3-2][Inf]--0-7-0-16
+[11:51:28 372][HUB3-2][Inf]--    download mem dtb normal 19380
+[11:51:28 372][HUB3-2][Inf]--Send download command success
+[11:51:28 388][HUB3-2][Inf]--Read command status success
+[11:51:28 395][HUB3-2][Inf]--Transfer complete
+[11:51:28 395][HUB3-2][Inf]--Send download get_status command succeed
+[11:51:28 399][HUB3-2][Inf]--get_status success
+[11:51:28 901][HUB3-2][Inf]-------------Download boot.PARTITION-----------
+[11:51:28 901][HUB3-2][Inf]--0-7-0-16
+[11:51:28 901][HUB3-2][Inf]--download store boot normal 8608848
+[11:51:28 901][HUB3-2][Inf]--Send download command success
+[11:51:28 922][HUB3-2][Err]--failed:
+[11:51:28 994][HUB3-2][Err]--[0x30402004]UBOOT/烧录分区 boot/初始化分区/命令结果返回错误
+[11:51:28 994][HUB3-2][Inf]--Close device handle 0x0000040c
+[11:51:38 180][Global][War]--User click stop button
+[11:51:38 713][Global][Inf]--Enable burning 0
+[11:53:39 651][Global][Inf]--User click start button
+[11:53:39 651][Global][Inf]--SetErase
+[11:53:39 653][Global][Inf]--Enable burning 1
+[11:53:39 653][Global][Inf]--Scan usb device
+[11:53:39 653][Global][Inf]--Aml scan WorldCup Device
+[11:53:39 654][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:53:39 654][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:53:39 654][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:53:39 655][Global][Inf]-------->[Port0]Other device
+[11:53:39 655][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:53:39 655][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:53:39 655][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:53:39 655][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port5]Other device
+[11:53:39 656][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:53:39 656][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:53:39 657][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:53:39 657][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:53:39 657][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:53:39 657][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:53:39 657][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:53:39 658][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:53:39 659][Global][Inf]---------->[Port2]Other device
+[11:53:39 659][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:53:39 659][Global][Inf]---------->[Port4]Other device
+[11:53:39 659][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:53:39 659][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:53:39 661][Global][Inf]---------->[Port7]Other device
+[11:53:39 661][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:53:39 661][Global][Inf]--Scan USB host controller complete
+[11:53:39 661][Global][Inf]--Update data center with HubMap
+[11:53:39 661][Global][Inf]--Update hub3 device data
+[11:53:39 661][Global][Inf]--Update HUB3-1 
+[11:53:39 661][HUB3-1][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:53:39 661][HUB3-2][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-3 
+[11:53:39 661][HUB3-3][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-4 
+[11:53:39 661][HUB3-4][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-5 
+[11:53:39 661][HUB3-5][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-6 
+[11:53:39 661][HUB3-6][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-7 
+[11:53:39 661][HUB3-7][Inf]--Update device path
+[11:53:39 661][Global][Inf]--Update HUB3-8 
+[11:53:39 661][HUB3-8][Inf]--Update device path
+[11:53:39 663][Global][Inf]--Burning thread HUB3-2 start
+[11:53:39 714][HUB3-2][Inf]--Open device handle \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}  0x00000454
+[11:53:39 764][HUB3-2][Inf]--Connect path=Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6/P0/P0/P1
+[11:53:39 764][HUB3-2][Inf]--Start burning...
+[11:53:39 829][HUB3-2][Inf]--------------ERASE BOOTLOADER------------
+[11:53:39 829][HUB3-2][Inf]-------------Download DDR.USB-----------
+[11:53:39 829][HUB3-2][Inf]--0-7-0-16
+[11:53:39 829][HUB3-2][Inf]--No need download
+[11:53:39 830][HUB3-2][Inf]-------------Download UBOOT_COMP.USB-----------
+[11:53:39 831][HUB3-2][Inf]--0-7-0-16
+[11:53:39 831][HUB3-2][Inf]--No need download
+[11:53:39 831][HUB3-2][Inf]--    low_power
+[11:53:39 833][HUB3-2][Inf]--Send command success
+[11:53:39 833][HUB3-2][Inf]--Read command status success
+[11:53:39 833][HUB3-2][Inf]-------------ERASE FLASH-----------
+[11:53:39 833][HUB3-2][Inf]--disk_initial 4
+[11:53:39 841][HUB3-2][Inf]--Send command success
+[11:53:39 847][HUB3-2][Inf]--Read command status success
+[11:53:39 848][HUB3-2][Inf]-------------Download meson.dtb-----------
+[11:53:39 849][HUB3-2][Inf]--0-7-0-16
+[11:53:39 849][HUB3-2][Inf]--    download mem dtb normal 19380
+[11:53:39 849][HUB3-2][Inf]--Send download command success
+[11:53:39 865][HUB3-2][Inf]--Read command status success
+[11:53:39 872][HUB3-2][Inf]--Transfer complete
+[11:53:39 873][HUB3-2][Inf]--Send download get_status command succeed
+[11:53:39 877][HUB3-2][Inf]--get_status success
+[11:53:40 379][HUB3-2][Inf]-------------Download boot.PARTITION-----------
+[11:53:40 381][HUB3-2][Inf]--0-7-0-16
+[11:53:40 382][HUB3-2][Inf]--download store boot normal 8608848
+[11:53:40 382][HUB3-2][Inf]--Send download command success
+[11:53:40 402][HUB3-2][Err]--failed:
+[11:53:40 464][HUB3-2][Err]--[0x30402004]UBOOT/烧录分区 boot/初始化分区/命令结果返回错误
+[11:53:40 465][HUB3-2][Inf]--Close device handle 0x00000454
+[11:53:42 819][Global][War]--User click stop button
+[11:53:43 358][Global][Inf]--Enable burning 0
+[11:57:59 195][Global][War]--Close tool
+[11:57:59 697][Global][Inf]--Burning thread HUB3-2 end run
+[11:57:59 697][Global][Inf]--Burning thread HUB3-2 exit
+[11:58:00 307][Global][War]--Controler exit
+[11:58:03 829][Global][Inf]--Get system Info :
+[11:58:03 829][Global][Inf]--Windows Version: Microsoft Windows 10, Bit: 64
+[11:58:03 829][Global][Inf]--Scan usb device
+[11:58:03 829][Global][Inf]--Aml scan WorldCup Device
+[11:58:03 832][Global][Inf]--Host: 符合 USB xHCI 的主机控制器
+[11:58:03 832][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9cb1&subsys_06b01028&rev_03#3&11583659&0&a0#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:58:03 832][Global][Inf]---->Roothub:USB#ROOT_HUB30#4&323272da&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:58:03 832][Global][Inf]-------->[Port0]Other device
+[11:58:03 832][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:58:03 832][Global][Inf]-------->[Port2]NoDeviceConnected
+[11:58:03 832][Global][Inf]-------->[Port3]NoDeviceConnected
+[11:58:03 832][Global][Inf]-------->[Port4]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port5]Other device
+[11:58:03 836][Global][Inf]-------->[Port6]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port7]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port8]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port9]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port10]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port11]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port12]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port13]NoDeviceConnected
+[11:58:03 836][Global][Inf]-------->[Port14]NoDeviceConnected
+[11:58:03 836][Global][Inf]--Host: Mobile 5th Generation Intel(R) Core(TM) USB EHCI Controller - 9CA6
+[11:58:03 836][Global][Inf]--DevPath:\\?\pci#ven_8086&dev_9ca6&subsys_06b01028&rev_03#3&11583659&0&e8#{3abf6f2d-71c4-462a-8a92-1e6861e6af27}
+[11:58:03 836][Global][Inf]---->Roothub:USB#ROOT_HUB20#4&38380184&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:58:03 838][Global][Inf]-------->[Port0]USB#VID_8087&PID_8001#5&39f33ace&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8}
+[11:58:03 838][Global][Inf]---------->[Port0]NoDeviceConnected
+[11:58:03 838][Global][Inf]---------->[Port1]\\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:58:03 839][Global][Inf]---------->[Port2]Other device
+[11:58:03 839][Global][Inf]---------->[Port3]NoDeviceConnected
+[11:58:03 839][Global][Inf]---------->[Port4]Other device
+[11:58:03 839][Global][Inf]---------->[Port5]NoDeviceConnected
+[11:58:03 839][Global][Inf]---------->[Port6]NoDeviceConnected
+[11:58:03 841][Global][Inf]---------->[Port7]Other device
+[11:58:03 841][Global][Inf]-------->[Port1]NoDeviceConnected
+[11:58:03 841][Global][Inf]--Scan USB host controller complete
+[11:58:03 842][Global][Inf]--Update data center with HubMap
+[11:58:03 842][Global][Inf]--Insert new hub3
+[11:58:03 842][Global][Inf]--Update hub3 device data
+[11:58:03 842][Global][Inf]--Update HUB3-1 
+[11:58:03 842][HUB3-1][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Update HUB3-2 \\?\usb#vid_1b8e&pid_c003#6&843dbf5&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[11:58:03 842][HUB3-2][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Begin thread for HUB3-2
+[11:58:03 842][Global][Inf]--Burning thread HUB3-2 start
+[11:58:03 842][Global][Inf]--Update HUB3-3 
+[11:58:03 842][HUB3-3][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Update HUB3-4 
+[11:58:03 842][HUB3-4][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Burning thread HUB3-2 begin run
+[11:58:03 842][Global][Inf]--Update HUB3-5 
+[11:58:03 842][HUB3-5][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Update HUB3-6 
+[11:58:03 842][HUB3-6][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Update HUB3-7 
+[11:58:03 842][HUB3-7][Inf]--Update device path
+[11:58:03 842][Global][Inf]--Update HUB3-8 
+[11:58:03 842][HUB3-8][Inf]--Update device path
+[11:58:23 522][Global][War]--Close tool
+[11:58:24 096][Global][Inf]--Burning thread HUB3-2 end run
+[11:58:24 096][Global][Inf]--Burning thread HUB3-2 exit
+[11:58:24 587][Global][War]--Controler exit
